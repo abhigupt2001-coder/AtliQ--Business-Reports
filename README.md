@@ -20,7 +20,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] https://github.com/abhigupt2001-coder/AtliQ--Business-Reports/commit/8ef6980259d7ee700fdaae3a8ff6af3e4197a6a5
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] https://github.com/abhigupt2001-coder/AtliQ--Business-Reports/commit/8ef6980259d7ee700fdaae3a8ff6af3e4197a6a5  & https://github.com/abhigupt2001-coder/AtliQ--Business-Reports/commit/8ef6980259d7ee700fdaae3a8ff6af3e4197a6a5  & 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets]
 
